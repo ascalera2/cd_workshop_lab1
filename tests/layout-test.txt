@@ -1,2 +1,2 @@
-title #{title} - training27**
+title #{title} - training27a
 h1 REPLACE THIS HEADER
